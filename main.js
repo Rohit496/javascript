@@ -115,6 +115,7 @@ level();
 //console.log(com1);
 
 
+
 // block level scope
 if (2 == 2) {
     const com2 = 'Google-2';
